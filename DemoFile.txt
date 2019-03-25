@@ -1,1 +1,2 @@
 Hello branch B
+branch B update 1
