@@ -1,4 +1,4 @@
 Hello master
 master update 1, hot fix master update 1
-master update 2
+master update 2, hot fix master update 2
 master update 3
